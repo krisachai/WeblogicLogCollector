@@ -1,5 +1,5 @@
 #path
-wlsdomain: BOSMCOMPRD
+wlsdomain: OSMCOM
 num_instances: "6"
-domainpath: /app/oracle/PRD/OSM/domains/
-threaddump: /app/oracle/PRD/OSM/threaddump
+domainpath: /app/oracle/OSM/domains/
+threaddump: /app/oracle/OSM/threaddump
